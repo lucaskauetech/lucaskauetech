@@ -1,16 +1,71 @@
-## Hi there 👋
+<h1 align="left" style="font-family: 'Courier New', monospace;">Hi there! 👋🏾 I'm Lucas Kauê Pedralina Lobo.</h1>
 
-<!--
-**lucaskauetech/lucaskauetech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=lucaskauetech&color=yellow" alt="Profile views" />
+</p>
 
-Here are some ideas to get you started:
+🎓 I'm currently studying **Information Systems** at [UNICAMP](https://www.unicamp.br/unicamp/universidade).  
+💼 Software Engineering Intern at [Itaú Unibanco](https://www.itau.com.br/).  
+🚀 I intend to become a Software Engineering Manager, focusing on **.NET**, **AWS**, and **DevOps**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack.
+
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/-Csharp-239120?style=flat&logo=csharp&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## 🧰 Tools I Use.
+
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+![JetBrains Rider](https://img.shields.io/badge/-Rider-000000?style=flat&logo=jetbrains&logoColor=white)
+![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white)
+
+
+
+
+---
+
+## 📈 GitHub Stats.
+
+<p align="left">
+  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=lucaskau3&show_icons=true&theme=dark&hide_title=true&count_private=true" alt="lucaskau3 stats"/>
+</p>
+
+---
+
+## 📚 Currently Learning.
+
+- 🧠 Reinforcing **.NET** and **C#** fundamentals.  
+- ☁️ Studying **AWS** and preparing for the **Cloud Practitioner certification**.  
+- 📊 Exploring **Datadog** for monitoring and observability.
+
+---
+
+## 👨🏾‍💻 About Me.
+
+- I love music and playing instruments.
+
+- I'm passionate about football, both watching and playing.
+
+- I enjoy a good book and spending time with family and friends.
+
+
+---
+
+## 📫 Contact Me.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/lucas-kau%C3%AA-80799b193/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:estudoslucaskaue@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
