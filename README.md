@@ -35,7 +35,7 @@
 ## 📈 GitHub Stats.
 
 <p align="left">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=lucaskau3&show_icons=true&theme=dark&hide_title=true&count_private=true" alt="lucaskau3 stats"/>
+  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=lucaskauetech&show_icons=true&theme=dark&hide_title=true&count_private=true" alt="lucaskauetech stats"/>
 </p>
 
 ---
