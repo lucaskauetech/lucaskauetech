@@ -5,8 +5,8 @@
 </p>
 
 🎓 I'm currently studying **Information Systems** at [UNICAMP](https://www.unicamp.br/unicamp/universidade).  
-💼 Software Engineering Intern at [Itaú Unibanco](https://www.itau.com.br/).  
-🚀 I intend to become a Software Engineering Manager, focusing on **.NET**, **AWS**, and **DevOps**.  
+💼 Jr Software Engineering at [Itaú Unibanco](https://www.itau.com.br/).  
+🚀 I intend to become a Software Engineering Manager, focusing on **.NET**, **AWS**, **DevOps**, and **Obvervability**. 
 
 ---
 
@@ -61,11 +61,14 @@
 
 ## 📫 Contact Me.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/lucas-kau%C3%AA-80799b193/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="mailto:estudoslucaskaue@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
+  
+<p align="left">
+  <a href="https://www.linkedin.com/in/lucas-kau%C3%AA-80799b193/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+ </a>
+
+
+
