@@ -4,9 +4,12 @@
   <img src="https://komarev.com/ghpvc/?username=lucaskauetech&color=yellow" alt="Profile views" />
 </p>
 
-🎓 I'm currently studying **Information Systems** at [UNICAMP](https://www.unicamp.br/unicamp/universidade).  
 💼 Jr Software Engineering at [Itaú Unibanco](https://www.itau.com.br/).  
-🚀 I intend to become a Software Engineering Manager, focusing on **.NET**, **AWS**, **DevOps**, and **Obvervability**. 
+
+🚀 Growing as a Software Engineer focused on .NET, AWS, DevOps & Observability.
+
+🎓 Graduated in Information Systems at [Unicamp](https://www.unicamp.br/).  
+
 
 ---
 
