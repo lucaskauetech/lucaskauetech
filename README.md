@@ -31,14 +31,13 @@
 ![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white)
 
 
-
-
 ---
 
 ## 📈 GitHub Stats.
 
 <p align="left">
-  <img width="450em" src="https://github-readme-stats.vercel.app/api?username=lucaskauetech&show_icons=true&theme=dark&hide_title=true&count_private=true" alt="lucaskauetech stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lucaskauetech&show_icons=true&theme=dark&hide_title=true&count_private=true" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=lucaskauetech&theme=dark" />
 </p>
 
 ---
