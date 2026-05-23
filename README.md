@@ -42,14 +42,6 @@
 
 ---
 
-## 📚 Currently Learning.
-
-- 🧠 Reinforcing **.NET** and **C#** fundamentals.  
-- ☁️ Studying **AWS** and preparing for the **Cloud Practitioner certification**.  
-- 📊 Exploring **Datadog** for monitoring and observability.
-
----
-
 ## 👨🏾‍💻 About Me.
 
 - I love music and playing instruments.
