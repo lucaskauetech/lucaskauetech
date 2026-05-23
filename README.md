@@ -6,7 +6,7 @@
 
 💼 Jr Software Engineering at [Itaú Unibanco](https://www.itau.com.br/).  
 
-🚀 Growing as a Software Engineer focused on .NET, AWS, DevOps & Observability.
+🚀 Growing as a Software Engineer focused on .NET, AWS, Observability.
 
 🎓 Graduated in Information Systems at [Unicamp](https://www.unicamp.br/).  
 
