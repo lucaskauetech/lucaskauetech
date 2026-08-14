@@ -4,11 +4,13 @@
   <img src="https://komarev.com/ghpvc/?username=lucaskauetech&color=yellow" alt="Profile views" />
 </p>
 
-💼 Jr Software Engineering at [Itaú Unibanco](https://www.itau.com.br/).  
+💼 Jr Software Engineer at [Itaú Unibanco](https://www.itau.com.br/).  
 
-🚀 Growing as a Software Engineer focused on .NET, AWS, Observability.
+🚀 Software Engineer specializing in: .NET | AWS | Observability | AI Engineering.
 
 🎓 Graduated in Information Systems at [Unicamp](https://www.unicamp.br/).  
+
+👨🏾‍💻 Postgraduate student in Software Engineering at Faculdade Metropolitana [Faculdade Metropolitana](https://www.faculdademetropolitana.edu.br/).  
 
 
 ---
@@ -30,26 +32,15 @@
 ![JetBrains Rider](https://img.shields.io/badge/-Rider-000000?style=flat&logo=jetbrains&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-4000BF?style=flat&logo=insomnia&logoColor=white)
 
-
 ---
 
-## 📈 GitHub Stats.
+## 🎯 Professional Focus.
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lucaskauetech&show_icons=true&theme=dark&hide_title=true&count_private=true" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=lucaskauetech&theme=dark" />
-</p>
+My focus is on building a solid foundation in backend engineering using .NET and C#, while continuously expanding my knowledge of AWS, observability, and AI applied to software engineering.
 
----
+I constantly strive to enhance the reliability, scalability, and maintainability of the systems I develop, while seeking opportunities to automate engineering workflows through AI-driven initiatives.
 
-## 👨🏾‍💻 About Me.
-
-- I love music and playing instruments.
-
-- I'm passionate about football, both watching and playing.
-
-- I enjoy a good book and spending time with family and friends.
-
+My long-term goal is to become a Software Engineering Coordinator, combining strong technical expertise with people leadership and strategic thinking.
 
 ---
 
