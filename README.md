@@ -21,6 +21,7 @@
 ![C#](https://img.shields.io/badge/-Csharp-239120?style=flat&logo=csharp&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-412991?style=flat&logo=openai&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
